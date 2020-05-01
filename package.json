@@ -1,0 +1,19 @@
+{
+  "name": "hello-april",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vominhvo/hello-april.git"
+  },
+  "author": "Vo Minh Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vominhvo/hello-april/issues"
+  },
+  "homepage": "https://github.com/vominhvo/hello-april#readme"
+}
